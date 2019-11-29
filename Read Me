@@ -1,0 +1,5 @@
+pg_start: start the PostgreSQL service
+pg_stop: stop the PostgreSQL service
+pg_ctl status: check if the PostgreSQL service is running
+
+psql -h localhost -d postgres
