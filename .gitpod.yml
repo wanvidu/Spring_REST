@@ -9,3 +9,7 @@ ports:
 tasks:
 - init: echo 'init script' # runs during prebuild
   command: echo 'start script'
+
+vscode:
+  extensions:
+    - sohibe.java-generate-setters-getters@4.2.2:TGDLfj6/6KwENqC9dWEGyQ==
